@@ -44,13 +44,13 @@ Ready to contribute? Here's how to set up `openf1.github.io` for local developme
 
 1. Install Jekyll. Follow the instructions at https://jekyllrb.com/docs/installation/
 2. Fork the `openf1.github.io` repo on GitHub.
-3. Clone your fork locally::
+3. Clone your fork locally:
 
 ```
     $ git clone git@github.com:your_name_here/openf1.github.io.git
 ```
 
-4. Create a branch for local development::  
+4. Create a branch for local development:
 
 ```
     $ git checkout -b name-of-your-bugfix-or-feature
@@ -60,7 +60,7 @@ Ready to contribute? Here's how to set up `openf1.github.io` for local developme
 
 5. When you're done making changes, check that your changes pass the tests
 
-6. Commit your changes and push your branch to GitHub::  
+6. Commit your changes and push your branch to GitHub:
 
 ```
     $ git add .
