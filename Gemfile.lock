@@ -277,7 +277,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages!
   html-proofer!
-  openf1-jekyll-theme (~> 0.1.0)!
+  openf1-jekyll-theme!
   rubocop!
   w3c_validators!
 

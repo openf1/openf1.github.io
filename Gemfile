@@ -1,8 +1,8 @@
 source 'https://rubygems.org' do
-  gem 'openf1-jekyll-theme', '~> 0.1.0'
   group :jekyll_plugins do
     gem 'github-pages'
   end
+  gem 'openf1-jekyll-theme'
 
   group :test, :development do
     gem 'html-proofer'
