@@ -1,1 +1,10 @@
-theme: jekyll-theme-slate
+theme: openf1-jekyll-theme
+
+sass:
+    style: compressed
+
+collections:
+    - sections
+
+exclude:
+    - CONTRIBUTING.md

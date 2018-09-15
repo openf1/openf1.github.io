@@ -1,0 +1,10 @@
+hero:
+  title: Build your app on openf1's platform
+  text: The openf1 API platform enables you to publish and analyze F1 stats and create a unique experience for F1's fanbase.
+figure:
+  src: '/assets/images/home/home-banner.svg'
+  alt: 'openf1 - open source APIs, Data Analytics & F1 Stats'
+paragraph:
+  - <p>
+      <a href="#" class="btn btn-success btn-border-inverse btn-lg">Sign Up Free</a>
+    </p> 
