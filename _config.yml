@@ -1,14 +1,20 @@
 remote_theme: openf1/openf1-jekyll-theme
 
 sass:
-    style: compressed
+  style: compressed
 
 collections:
-    - sections
+  - sections
 
-exclude:
-    - CONTRIBUTING.md
-    - README.md
-    - LICENSE
-    - Gemfile*
-    - script/*
+exclude: ["CONTRIBUTING.md", "README.md", "LICENSE", "Gemfile*", "script/*"]
+
+links:
+  features_url      : /#features
+  docs_url          : /#
+  support_url       : /#
+  blog_url          : /#
+  about_url         : /#
+  signup_url        : /#
+  signin_url        : /#
+  roadmap_url       : /#
+  help_url          : /#
