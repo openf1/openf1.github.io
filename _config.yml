@@ -8,3 +8,7 @@ collections:
 
 exclude:
     - CONTRIBUTING.md
+    - README.md
+    - LICENSE
+    - Gemfile*
+    - script/*
