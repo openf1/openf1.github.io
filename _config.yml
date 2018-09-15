@@ -1,4 +1,4 @@
-remote_theme: openf1-jekyll-theme
+remote_theme: openf1/openf1-jekyll-theme
 
 sass:
     style: compressed
