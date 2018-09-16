@@ -26,7 +26,7 @@
 - title: Follow us
   items:
     - page: openf1
-      url: https://openf1.github.io
+      url: https://github.com/openf1
       fa-icon: github
     - page: "@openf1"
       url: /#
