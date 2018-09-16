@@ -1,0 +1,34 @@
+- title: openf1
+  items:
+    - page: About
+      url: /#
+    - page: Roadmap
+      url: /#
+    - page: Blog
+      url: /#
+
+- title: Documentation
+  url: /#
+  items:
+    - page: Getting started
+      url: /#
+    - page: GraphQL and Integration
+      url: /#
+
+- title: Help & Support
+  url: /#
+  items:
+    - page: Problems
+      url: /#
+    - page: Suggestions
+      url: /#
+
+- title: Follow us
+  items:
+    - page: openf1
+      url: https://openf1.github.io
+      fa-icon: github
+    - page: "@openf1"
+      url: /#
+      fa-icon: twitter
+      fa-icon-color: "rgb(85, 172, 238)"

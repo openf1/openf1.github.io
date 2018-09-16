@@ -1,0 +1,19 @@
+- name: Features
+  active: true
+  url: /#features
+
+- name: Docs
+  active: false
+  url: /#
+
+- name: Support
+  active: false
+  url: /#
+
+- name: Blog
+  active: false
+  url: /#
+
+- name: About
+  active: false
+  url: /#
