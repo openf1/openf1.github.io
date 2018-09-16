@@ -21,7 +21,7 @@ To set up your environment to contribute to this site:
 
 Add pages, documents, data, etc. As you make modifications to your content, your site will regenerate and you should see the changes in the browser after a refresh.
 
-To add sections to the main page, create a new html file under the collections directory `_sections`.
+To add sections to the main page, create a new html file under the collections directory `_sections`. See theme [doc](https://github.com/openf1/openf1-jekyll-theme') for more information.
 
 ### Running Tests
 
