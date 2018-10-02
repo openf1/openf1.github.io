@@ -9,5 +9,5 @@ collections:
 exclude: ["CONTRIBUTING.md", "README.md", "LICENSE", "Gemfile*", "script/*"]
 
 links:
-  signup_url        : https://openf1.herokuapp.com/accounts/signup
-  signin_url        : https://openf1.herokuapp.com/accounts/signin
+  signup_url        : https://openf1.herokuapp.com/account/signup
+  signin_url        : https://openf1.herokuapp.com/account/signin
